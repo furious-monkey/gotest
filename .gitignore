@@ -1,6 +1,9 @@
 # Built program
 ./macOS-Namer
 
+# VSCode's hidden directory with settings and other guff
+vscode/
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
